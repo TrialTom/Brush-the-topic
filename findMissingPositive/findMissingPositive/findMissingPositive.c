@@ -1,7 +1,7 @@
 #define _CRT_SRCURE_NO_WARNINGS
 
 #include <stdio.h>
-
+//给你一个未排序的整数数组 nums ，请你找出其中没有出现的最小的正整数。
 int firstMissingPositive(int* nums, int numsSize) {
     int i = 0;
     int temp;
