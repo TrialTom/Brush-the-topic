@@ -1,4 +1,0 @@
-﻿  test.c
-E:\CLass Work\leetcode\FindErrorNums\FindErrorNums\test.c(54,47): warning C4090: “函数”: 不同的“const”限定符
-E:\CLass Work\leetcode\FindErrorNums\FindErrorNums\test.c(54,47): warning C4113: “int (__cdecl *)(int *,int *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
-  FindErrorNums.vcxproj -> E:\CLass Work\leetcode\FindErrorNums\x64\Debug\FindErrorNums.exe
